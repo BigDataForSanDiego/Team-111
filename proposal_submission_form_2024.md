@@ -1,30 +1,28 @@
 ### 2025 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `111`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Team Kevin Hare`    
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `ben-du1`
 
-#### Team Members `YOUR TEAM MEMBERS NAME & GITHUB USERNAME HERE`
+#### Team Members Ben Du (`ben-du1`), Landon Peng (`lunbun`), Raymond Peng (`javaarchive`), Matthew Ekaireb (`Matthew1177`)
 
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `An application that functions like a TurboTax for public benefits, using unhoused individuals’ profile data to guide them toward applications for programs like CalFresh, CalWORKs, Medi-Cal, and federal benefits, explaining eligibility requirements and steps to qualify, while also providing assistance (e.g., autofilling PDFs) to complete application forms.`
 
 #### A visual
-![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/images/big_data_2025_clip.png?raw=true "Big Data Hackathon for San Diego 2025")
-
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+![bigdatahackathon4sd](/Big%20Data%20Proposal.png "Big Data Hackathon for San Diego 2025")
 
 
 #### Hackathon Five CORE Themes. `CHECK ONE or TWO QUESTIONS (insert X in [ ])`.
-- [ ] Access to Shelter and Resources
+- [X] Access to Shelter and Resources
 > - Solutions to improve on-demand access and availability of shelters, food banks, medical aid, and social services for homeless individuals.
 > - Question: How can we develop technological solutions that provide real-time, on-demand information updates on available shelters, food banks, hygiene stations, medical clinics, and social services for people experiencing homelessness?
 - [ ] Health and Mental Wellness Support
 > - Tools to provide remote mental health support, connect to mobile healthcare providers, or manage chronic conditions common in homeless populations using mobile devices.
 > - Question: How can we create tools or mobile applications that deliver remote mental health care, help manage chronic health conditions, or connect unhoused individuals with trusted health professionals?
-- [ ] Housing and Employment Pathways
+- [X] Housing and Employment Pathways
 > - Web platforms that connect homeless individuals to affordable housing opportunities, job training programs, or employment resources.
 > - Question: What digital web platforms or systems can help individuals experiencing homelessness navigate the path toward stable housing and employment, including skills training, job placement, and housing referrals? 
 - [ ] Safety and Community Engagement
