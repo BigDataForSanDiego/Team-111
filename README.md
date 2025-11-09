@@ -9,7 +9,7 @@
 #### Team Members Ben Du (`ben-du1`), Landon Peng (`lunbun`), Raymond Peng (`javaarchive`), Matthew Ekaireb (`Matthew1177`)
 
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `An application that functions like a TurboTax for public benefits, using unhoused individuals’ profile data to guide them toward applications for programs like CalFresh, CalWORKs, Medi-Cal, and federal benefits, explaining eligibility requirements and steps to qualify, while also providing assistance (e.g., autofilling PDFs) to complete application forms.`
+##### An application that functions like a TurboTax for public benefits, using unhoused individuals’ profile data to guide them toward applications for programs like CalFresh, CalWORKs, Medi-Cal, and federal benefits, explaining eligibility requirements and steps to qualify, while also providing assistance (e.g., autofilling PDFs) to complete application forms.
 
 #### A visual
 ![bigdatahackathon4sd](/Big%20Data%20Proposal.png "Big Data Hackathon for San Diego 2025")
