@@ -1,4 +1,4 @@
-const inputs = [
+const inputs_template = [
     {
         question:"Who are you completing this for?",
         type:"select",
@@ -8,9 +8,32 @@ const inputs = [
         ]
     },
     {
-        question:"What is your legal name?",
+        question:"What is your legal first name?",
         type:"entry"
+    },
+    {
+        question:"What is your legal last name?",
+        type:"entry"
+    },
+    {
+        question:"What is your age?",
+        type:"entry"
+    },
+    {
+        question:"What is your household's gross monthly income?",
+        type:"entry"
+    },
+    {
+        question:"What is your household size?",
+        type:"select",
+        options:[
+            1,
+            2,
+            3,
+            4,
+            "5+"
+        ]
     }
 ]
 
-export default inputs
+export default inputs_template
