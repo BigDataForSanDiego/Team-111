@@ -1,5 +1,7 @@
 import {useState} from 'react'
 import createPDF from '../lib/createPDF'
+import { FaCheck } from "react-icons/fa";
+import { FaFilePdf } from "react-icons/fa";
 
 const Program = ({type,form}) => {
     const [open,setOpen] = useState(false)
@@ -43,8 +45,9 @@ const CalFreshEligibility = (form) => {
     if (form["What is your household's gross monthly income?"] < 30000) {
         return (
             <>
-                <div>You are eligible</div>
-                <button onClick={() => createPDF(form)}>Download PDF</button>
+                <br />
+                <p><FaCheck color="green"/> You are eligible!</p>
+                <button onClick={() => createPDF(form)}><FaFilePdf color="red"/> Download PDF</button>
             </>
             
         )
