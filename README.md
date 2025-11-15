@@ -6,9 +6,11 @@
 
 #### Team Coordinator GitHub Username: `ben-du1`
 
-#### Team Members Ben Du (`ben-du1`), Landon Peng (`lunbun`), Raymond Peng (`javaarchive`), Matthew Ekaireb (`Matthew1177`)
+#### Team Members: Ben Du (`ben-du1`), Landon Peng (`lunbun`), Raymond Peng (`javaarchive`), Matthew Ekaireb (`Matthew1177`)
 
-#### Your teamâ€™s hackathon idea in One sentence:
+<img width="500" height="500" alt="1" src="https://github.com/user-attachments/assets/39ab3790-4ae9-4c87-98ac-bdd73b43b6cc" />
+
+#### Your team's hackathon idea in one sentence:
 ##### An application that functions like a TurboTax for public benefits, using unhoused individuals’ profile data to guide them toward applications for programs like CalFresh, CalWORKs, Medi-Cal, and federal benefits, explaining eligibility requirements and steps to qualify, while also providing assistance (e.g., autofilling PDFs) to complete application forms.
 
 #### A visual
