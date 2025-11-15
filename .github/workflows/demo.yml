@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line scrip
-        run: cd frontend && npm build frontend
+        run: cd frontend && npm run build frontend
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
