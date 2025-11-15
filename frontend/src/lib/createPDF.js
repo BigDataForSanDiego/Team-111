@@ -18,7 +18,7 @@ async function createPDF(form) {
     y: 665,
     size: 14,
     font: helveticaFont,
-    color: rgb(0,0,0),
+    color: rgb(255,0,0),
 
   })
 
@@ -27,7 +27,7 @@ async function createPDF(form) {
     y: 665,
     size: 14,
     font: helveticaFont,
-    color: rgb(0,0,0),
+    color: rgb(255,0,0),
   })
 
   const pdfBytes = await pdfDoc.save()
