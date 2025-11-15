@@ -13,8 +13,17 @@ async function createPDF(form) {
 
     // enter data
 
-    firstPage.drawText('Ben Du', {
+    firstPage.drawText(form["What is your legal first name?"] + " " + form["What is your legal last name?"], {
     x: 60,
+    y: 665,
+    size: 14,
+    font: helveticaFont,
+    color: rgb(0,0,0),
+
+  })
+
+  firstPage.drawText(form["What is your legal last name?"], {
+    x: 200,
     y: 665,
     size: 14,
     font: helveticaFont,

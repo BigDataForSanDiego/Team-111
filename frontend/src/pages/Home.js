@@ -49,15 +49,15 @@ const Home = () => {
                 !submitted ? 
 
                 question == inputs.length-1 ? 
-                <>
+                <div className="form-controls">
                 <button onClick={() => question > 0 && setQuestion(question-1)}>Back</button>
                 <button onClick={() => setSubmitted(true)}>Submit</button>
-                </>
+                </div>
                 :
-                <>
+                <div className="form-controls">
                  <button onClick={() => question > 0 && setQuestion(question-1)}>Back</button>
                 <button onClick={() => question + 1 < inputs.length && setQuestion(question+1)}>Next</button>
-                </>
+                </div>
 
                 :
                 

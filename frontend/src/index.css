@@ -52,8 +52,18 @@ button:hover {
 .Entry h2, .Select h2 {
   margin:0;
   margin-bottom:10px;
+  display:flex;
+  align-items: center;
+  gap:5px;
 }
 
 .Program {
   margin-top:0.5em;
+  padding-bottom:5px;
+  border-bottom:1px solid black;
+}
+
+.form-controls {
+  display: flex;
+  gap:10px;
 }

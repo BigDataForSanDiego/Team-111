@@ -2,6 +2,7 @@ import {useState} from 'react'
 import createPDF from '../lib/createPDF'
 import { FaCheck } from "react-icons/fa";
 import { FaFilePdf } from "react-icons/fa";
+import { MdCancel } from "react-icons/md";
 
 const Program = ({type,form}) => {
     const [open,setOpen] = useState(false)
@@ -39,6 +40,15 @@ const Program = ({type,form}) => {
         </div>
     )
     }
+    else if (type=="section8") {
+        return (
+        <div className="Program">
+            <button onClick={() => setOpen(!open)}>Section 8 Housing</button>
+            {open ? CalFreshEligibility(form) : ""}
+        </div>
+    )
+    }
+    
 }
 
 const CalFreshEligibility = (form) => {
@@ -53,7 +63,7 @@ const CalFreshEligibility = (form) => {
         )
     } else {
         return (
-            <div>You are not eligible</div>
+            <div><p><MdCancel color="red"/> You are not eligible</p></div>
         )
     }
 }
