@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage":"bigdataforsandiego.github.io/Team-111/",
+  "homepage":"https://bigdataforsandiego.github.io/Team-111/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
